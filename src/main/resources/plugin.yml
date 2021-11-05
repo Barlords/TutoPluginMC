@@ -1,0 +1,4 @@
+name: TutoPluginMC
+version: '1.0'
+main: net.barlords.tutopluginmc.TutoPluginMC
+api-version: 1.17
